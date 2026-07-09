@@ -58,7 +58,7 @@
 <div align="center">
 
 [GitHub](https://github.com/NiceZGT730) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/บัณฑิตย์-ฉลวย-12b455308/) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/bandit-chaluay-12b455308/) &nbsp;·&nbsp;
 [Discord](https://discord.com/users/239937299444400128) &nbsp;·&nbsp;
 [Email](mailto:banditchaluay06@gmail.com)
 
